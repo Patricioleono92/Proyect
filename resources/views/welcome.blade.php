@@ -13,7 +13,7 @@
     <div class="min-h-screen sm:flex sm:flex-row mx-0 justify-center me-145">
       <div class="flex-col flex self-center p-10 sm:max-w-5xl xl:max-w-2xl z-10">
       </div>
-      <div class="flex justify-center self-center z-10">
+      <div class="flex justify-center self-center z-10 opacity-95">
         <div class="p-12 bg-white mx-auto rounded-2xl w-100 ">
           <div class="mb-4">
             <h3 class="font-semibold text-2xl text-gray-800">Iniciar Session</h3>
