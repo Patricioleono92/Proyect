@@ -6,5 +6,5 @@
 @source '../**/*.js';
 
 @plugin "daisyui" {
-    themes: lemonade --default;
+    themes: nord --default;
 };
