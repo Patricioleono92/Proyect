@@ -11,4 +11,12 @@
 
      </label>
      <div class="px-4">Software Mantencion Preventiva y Correctiva - Gestion de equipo</div>
+     <div class="px-6 ml-auto">
+         <div class="avatar avatar-placeholder">
+             <div class="bg-neutral text-neutral-content w-12 rounded-full">
+                 <span>ADM</span>
+             </div>
+             <p class="px-5 pt-3">Rodrigo Ramirez - RUT</p>
+         </div>
+     </div>
  </nav>
