@@ -19,7 +19,7 @@
                 <td>Tecnologia de la Informacion</td>
                 <td>2450003</td>
                 <td>
-                    <div class="badge badge-success badge-xs"></div>
+                    <x-ui.badge color="success" size="md"></x-ui.badge>
                 </td>
             </tr>
             <tr>
@@ -27,7 +27,7 @@
                 <td>Tecnologia de la Informacion</td>
                 <td>2450003</td>
                 <td>
-                    <div class="badge badge-error badge-xs"></div>
+                    <x-ui.badge color="error" size="md"></x-ui.badge>
                 </td>
             </tr>
         </tbody>
